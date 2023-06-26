@@ -1,0 +1,9 @@
+{
+  "cars": {
+    "name": "string",
+    "description": "string",
+    "price": 0,
+    "year": 0,
+    "category": "string"
+  }
+}
